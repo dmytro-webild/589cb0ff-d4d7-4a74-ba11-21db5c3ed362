@@ -162,15 +162,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "t1",          name: "Shilpa C ",          handle: "@sarahj",          testimonial: "Absolutely amazing. Stylish ambience, outstanding food and memorable experience.",          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-with-trendy-clothes_482257-78860.jpg"},
+          id: "t1",          name: "Shilpa C ",          handle: "@shilpa",          testimonial: "Absolutely amazing. Stylish ambience, outstanding food and memorable experience.",          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-with-trendy-clothes_482257-78860.jpg"},
         {
-          id: "t2",          name: "Lydia Grace ",          handle: "@mchen",          testimonial: "The cocktails were unique and amazing. Definitely coming back.",          imageSrc: "http://img.b2bpic.net/free-photo/watching-funny-video-internet-with-coworkers-cafe-terrace-with-tasty-food_8353-10265.jpg"},
+          id: "t2",          name: "Lydia Grace ",          handle: "@lydia",          testimonial: "The cocktails were unique and amazing. Definitely coming back.",          imageSrc: "http://img.b2bpic.net/free-photo/watching-funny-video-internet-with-coworkers-cafe-terrace-with-tasty-food_8353-10265.jpg"},
         {
-          id: "t3",          name: "Charith Kumar ",          handle: "@erod",          testimonial: "Perfect for family evenings and special memories. Truly unique space.",          imageSrc: "http://img.b2bpic.net/free-photo/having-lunch-spacious-restaurant_52683-117480.jpg"},
+          id: "t3",          name: "Charith Kumar ",          handle: "@charith",          testimonial: "Perfect for family evenings and special memories. Truly unique space.",          imageSrc: "http://img.b2bpic.net/free-photo/having-lunch-spacious-restaurant_52683-117480.jpg"},
         {
-          id: "t4",          name: "Sandeep Reddy ",          handle: "@dkim",          testimonial: "Best ambience in the city. The water streams are mesmerizing.",          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg"},
+          id: "t4",          name: "Sandeep Reddy ",          handle: "@sandeep",          testimonial: "Best ambience in the city. The water streams are mesmerizing.",          imageSrc: "http://img.b2bpic.net/free-photo/adorable-lovely-woman-fashion-clothes-is-sitting-open-air-cafe-is-using-smartphone-waiting-friends-city-lights-background_291650-842.jpg"},
         {
-          id: "t5",          name: "Sneha P ",          handle: "@alexs",          testimonial: "Exceptional service and the menu is simply world class.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-close-up-portrait-beautiful-black-skinned-woman-wearing-blouse-flower-headband-enjoying-dinner-while-eating-restaurant_613910-5625.jpg"},
+          id: "t5",          name: "Sneha P ",          handle: "@sneha",          testimonial: "Exceptional service and the menu is simply world class.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-close-up-portrait-beautiful-black-skinned-woman-wearing-blouse-flower-headband-enjoying-dinner-while-eating-restaurant_613910-5625.jpg"},
       ]}
       title="What Guests Say"
       description="Perfect for special memories and evenings."
