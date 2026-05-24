@@ -66,9 +66,9 @@ export default function LandingPage() {
         {
           id: "2",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636816075-uafbsnel.png",          imageAlt: "Signature craft cocktails"},
         {
-          id: "3",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636796918-j9qxd5jn.png",          imageAlt: "Exotic stone sculptures"},
+          id: "3",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779638119230-ins1tr7c.png",          imageAlt: "Exotic stone sculptures"},
         {
-          id: "4",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-sushi-green-plate_23-2149013622.jpg",          imageAlt: "Fusion culinary creations"},
+          id: "4",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779638471997-jptjljiw.png",          imageAlt: "Fusion culinary creations"},
         {
           id: "5",          imageSrc: "http://img.b2bpic.net/free-photo/still-life-with-decorative-heart-books-cozy-things-blurred-background-with-bokeh-concept-valentine-s-day_169016-9688.jpg",          imageAlt: "Unforgettable family moments"},
         {
