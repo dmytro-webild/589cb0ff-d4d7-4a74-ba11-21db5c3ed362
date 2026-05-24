@@ -115,9 +115,9 @@ export default function LandingPage() {
         {
           id: "m4",          name: "Deep Scarlet ",          price: "Signature",          variant: "Modern Twist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636602280-batucq4d.png"},
         {
-          id: "m5",          name: "Maamoul Cheesecake",          price: "Dessert",          variant: "Crafted",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636699645-chfseejm.png"},
+          id: "m5",          name: "Maamoul Cheesecake",          price: "Sushi",          variant: "Crafted",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636699645-chfseejm.png"},
         {
-          id: "m6",          name: "Deconstructed Tiramisu",          price: "Dessert",          variant: "Rich",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-delicious-cake-slice-with-cream-fresh-apricots-inside-pink-plate-light-desk_140725-20416.jpg"},
+          id: "m6",          name: "Kappa Maki Roll ",          price: "Sushi",          variant: "Rich",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779639019388-mty35g11.png"},
       ]}
       title="Signature Menu Showcase"
       description="Crafted flavours for unforgettable evenings."
