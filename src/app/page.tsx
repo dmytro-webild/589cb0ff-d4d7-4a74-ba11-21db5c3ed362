@@ -164,11 +164,11 @@ export default function LandingPage() {
         {
           id: "t1",          name: "Shilpa C ",          handle: "@shilpa",          testimonial: "Absolutely amazing. Stylish ambience, outstanding food and memorable experience.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779641922180-ddgcu2pn.png"},
         {
-          id: "t2",          name: "Lydia Grace ",          handle: "@lydia",          testimonial: "The cocktails were unique and amazing. Definitely coming back.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779642012848-mgqconsm.png"},
+          id: "t2",          name: "Lydia Grace ",          handle: "@lydia",          testimonial: "The cocktails were unique and amazing. Definitely coming back.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779642073514-atngwzoi.png"},
         {
           id: "t3",          name: "Charith Kumar ",          handle: "@charith",          testimonial: "Perfect for family evenings and special memories. Truly unique space.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779639663903-afvany5k.png"},
         {
-          id: "t4",          name: "Sandeep Reddy ",          handle: "@sandeep",          testimonial: "Best ambience in the city. The water streams are mesmerizing.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779639723283-vmxypbxl.png"},
+          id: "t4",          name: "Sandeep Reddy ",          handle: "@sandeep",          testimonial: "Best ambience in the city. The water streams are amazing.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779642088153-kr026via.png"},
         {
           id: "t5",          name: "Sneha P ",          handle: "@sneha",          testimonial: "Exceptional service and the menu is simply world class.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779641974207-0lbpzqs6.png"},
       ]}
