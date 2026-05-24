@@ -186,9 +186,9 @@ export default function LandingPage() {
         {
           id: "g1",          value: "Deep",          title: "Flavour Dishes ",          description: "A Culinary experience",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637508301-adcrp0c6.png"},
         {
-          id: "g2",          value: "Craft",          title: "Drinks",          description: "Artisan cocktails.",          imageSrc: "http://img.b2bpic.net/free-photo/water-fountain-village-with-stork-ornament_1268-15687.jpg"},
+          id: "g2",          value: "Craft",          title: "Drinks",          description: "Artisan cocktails.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637823490-x3d5mpz8.png"},
         {
-          id: "g3",          value: "Exotic",          title: "Design",          description: "Island inspired architecture.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488544.jpg"},
+          id: "g3",          value: "Exotic",          title: "Ambience",          description: "Island inspired architecture.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637958947-cy76u023.png"},
       ]}
       title="The Moai Aesthetic"
       description="Visual highlights of our unique space."
@@ -201,7 +201,7 @@ export default function LandingPage() {
       background={{
         variant: "gradient-bars"}}
       tag="Reserve"
-      title="Your Table Is Waiting"
+      title="Your Table Is Waiting For You"
       description="Reserve your experience at Moai Kitchen."
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779634273331-ahw8s7b0.png"
       mediaAnimation="slide-up"
