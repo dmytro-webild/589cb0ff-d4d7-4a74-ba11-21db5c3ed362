@@ -80,17 +80,17 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/ozote-steam-applied-lamb-cooked-dough_114579-2134.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ozote-steam-applied-lamb-cooked-dough_114579-2134.jpg?_wi=1",
           imageAlt: "Cinematic interior view",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-bartender-preparing-drink_23-2150346964.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-bartender-preparing-drink_23-2150346964.jpg?_wi=1",
           imageAlt: "Signature craft cocktails",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/life-style_1122-1851.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/life-style_1122-1851.jpg?_wi=1",
           imageAlt: "Exotic stone sculptures",
         },
         {
@@ -213,7 +213,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/profiteroles-chocolate-sauce-inside-white-plate_114579-2410.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/ozote-steam-applied-lamb-cooked-dough_114579-2134.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ozote-steam-applied-lamb-cooked-dough_114579-2134.jpg?_wi=2",
           imageAlt: "luxury restaurant immersive interior",
         },
         {
@@ -225,7 +225,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/restaurant-luxury-interior-design-dark-lightning_114579-2492.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-bartender-preparing-drink_23-2150346964.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-bartender-preparing-drink_23-2150346964.jpg?_wi=2",
           imageAlt: "luxury restaurant immersive interior",
         },
         {
@@ -237,7 +237,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/wild-stream-forest_23-2147670098.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/life-style_1122-1851.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/life-style_1122-1851.jpg?_wi=2",
           imageAlt: "luxury restaurant immersive interior",
         },
       ]}
