@@ -64,9 +64,9 @@ export default function LandingPage() {
         {
           id: "1",          imageSrc: "http://img.b2bpic.net/free-photo/ozote-steam-applied-lamb-cooked-dough_114579-2134.jpg",          imageAlt: "Cinematic interior view"},
         {
-          id: "2",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-bartender-preparing-drink_23-2150346964.jpg",          imageAlt: "Signature craft cocktails"},
+          id: "2",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636816075-uafbsnel.png",          imageAlt: "Signature craft cocktails"},
         {
-          id: "3",          imageSrc: "http://img.b2bpic.net/free-photo/life-style_1122-1851.jpg",          imageAlt: "Exotic stone sculptures"},
+          id: "3",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636796918-j9qxd5jn.png",          imageAlt: "Exotic stone sculptures"},
         {
           id: "4",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-sushi-green-plate_23-2149013622.jpg",          imageAlt: "Fusion culinary creations"},
         {
@@ -91,7 +91,7 @@ export default function LandingPage() {
   <div id="experience" data-section="experience">
       <TextAbout
       useInvertedBackground={false}
-      title="Not Just A Restaurant"
+      title="Not Just A Restaurant, But An Experience"
       buttons={[
         {
           text: "View Gallery",          href: "#gallery"},
@@ -107,15 +107,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "m1",          name: "Smoked Paprika Chicken",          price: "Signature",          variant: "Gourmet",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-tasty-dish-with-bacon-beef-white-plate_181624-20789.jpg"},
+          id: "m1",          name: "Smoked Paprika Chicken",          price: "Signature",          variant: "Gourmet",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779635955604-oqr0p5i8.png"},
         {
-          id: "m2",          name: "Money Bag Wontons",          price: "Appetizer",          variant: "Crispy",          imageSrc: "http://img.b2bpic.net/free-photo/seared-scallops-with-pea-puree_23-2151942386.jpg"},
+          id: "m2",          name: "Prawns In Hot Yellow Curry ",          price: "Appetizer",          variant: "Comfort ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636506304-4ow9fhrs.png"},
         {
-          id: "m3",          name: "Asparagus Cream Cheese Sushi",          price: "Specialty",          variant: "Balanced",          imageSrc: "http://img.b2bpic.net/free-photo/plate-with-fish-selection-it_140725-4418.jpg"},
+          id: "m3",          name: "Farm Fresh Pizza",          price: "Specialty",          variant: "Balanced",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636357324-doq8bnyh.png"},
         {
-          id: "m4",          name: "Adana Kebab",          price: "Signature",          variant: "Modern Twist",          imageSrc: "http://img.b2bpic.net/free-photo/cooked-meat-veggies-kebab-black-background_23-2148651057.jpg"},
+          id: "m4",          name: "Deep Scarlet ",          price: "Signature",          variant: "Modern Twist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636602280-batucq4d.png"},
         {
-          id: "m5",          name: "Signature Cocktails",          price: "Bar",          variant: "Crafted",          imageSrc: "http://img.b2bpic.net/free-photo/bar-tender-sprinkles-golden-glitter-into-cocktail-champagne-glass_141793-2004.jpg"},
+          id: "m5",          name: "Signature Cocktails",          price: "Bar",          variant: "Crafted",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636699645-chfseejm.png"},
         {
           id: "m6",          name: "Deconstructed Tiramisu",          price: "Dessert",          variant: "Rich",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-delicious-cake-slice-with-cream-fresh-apricots-inside-pink-plate-light-desk_140725-20416.jpg"},
       ]}
@@ -132,21 +132,21 @@ export default function LandingPage() {
       features={[
         {
           title: "Exceptional Service",          description: "Friendly recommendations and attentive staff.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/beautiful-shot-water-stream-middle-green-trees-forest_181624-14572.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636936658-paqillip.png"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/profiteroles-chocolate-sauce-inside-white-plate_114579-2410.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779636908544-v1q25wc7.png"},
         },
         {
           title: "Memorable Atmosphere",          description: "Luxury meets comfort in every corner.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/two-men-cafe_23-2147775893.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637163422-ajwovxol.png"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/restaurant-luxury-interior-design-dark-lightning_114579-2492.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637194950-us4tauin.png"},
         },
         {
           title: "Global Flavours",          description: "Asian, Italian and contemporary dishes.",          phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/digital-lavender-style-interior-design_23-2151561232.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637232349-wk4rx2jg.png"},
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/wild-stream-forest_23-2147670098.jpg"},
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637267460-n8luawoq.png"},
         },
       ]}
       showStepNumbers={false}
@@ -184,7 +184,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       metrics={[
         {
-          id: "g1",          value: "Luxury",          title: "Atmosphere",          description: "Designed for conversations.",          imageSrc: "http://img.b2bpic.net/free-photo/yellow-color-cocktail-with-apple-slice_140725-398.jpg"},
+          id: "g1",          value: "Deep",          title: "Flavour Dishes ",          description: "A Culinary experience",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779637508301-adcrp0c6.png"},
         {
           id: "g2",          value: "Craft",          title: "Drinks",          description: "Artisan cocktails.",          imageSrc: "http://img.b2bpic.net/free-photo/water-fountain-village-with-stork-ornament_1268-15687.jpg"},
         {
@@ -203,7 +203,7 @@ export default function LandingPage() {
       tag="Reserve"
       title="Your Table Is Waiting"
       description="Reserve your experience at Moai Kitchen."
-      imageSrc="http://img.b2bpic.net/free-photo/front-view-delicious-thanksgiving-meal_23-2148629542.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779634273331-ahw8s7b0.png"
       mediaAnimation="slide-up"
       buttonText="Reserve Now"
     />
