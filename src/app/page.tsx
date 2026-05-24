@@ -147,10 +147,10 @@ export default function LandingPage() {
     />
   </div>
 
-  <div id="reserve" data-section="reserve" style={{ backgroundImage: "url('https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779644023451-dark-walnut-bg.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}>
+  <div id="reserve" data-section="reserve">
       <ContactSplit
       useInvertedBackground={true}
-      background={{ variant: "plain" }}
+      background={{ variant: "gradient-bars" }}
       tag="Reserve"
       title="Your Table Is Waiting For You"
       description="Reserve your experience at Moai Kitchen."
