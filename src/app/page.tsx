@@ -72,7 +72,7 @@ export default function LandingPage() {
         {
           id: "5",          imageSrc: "http://img.b2bpic.net/free-photo/still-life-with-decorative-heart-books-cozy-things-blurred-background-with-bokeh-concept-valentine-s-day_169016-9688.jpg",          imageAlt: "Unforgettable family moments"},
         {
-          id: "6",          imageSrc: "http://img.b2bpic.net/free-photo/tree-pot-decoration-table_1339-4874.jpg",          imageAlt: "Water garden stream feature"},
+          id: "6",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EAqaBeXcSKYiSGd9lfaxim6rEK/uploaded-1779638595260-0to7tair.png",          imageAlt: "Water garden stream feature"},
       ]}
     />
   </div>
